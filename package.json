@@ -1,7 +1,7 @@
 {
-  "name": "VinzzDev",
+  "name": "sh3nnmine",
   "version": "6.7.4",
-  "description": "Baileys Ini Dibuat Oleh VinzzDev",
+  "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "VinzzDev",
+  "author": "Adhiraj Singh",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -52,7 +52,7 @@
     "chalk": "^4.1.2",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:kiuur/libsignal",
+    "libsignal": "npm:@shennmine/libsignal-node",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
